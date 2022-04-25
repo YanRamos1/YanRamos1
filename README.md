@@ -11,7 +11,7 @@
 </div>
 <div align="left">
 
-- :toolbox: Estudando o Framework Laravel!.
+- :toolbox: Estudando o Framework Laravel!
 
 - :desktop_computer: Atualmente trabalhando como programador de sistemas de informação.
 
